@@ -1,0 +1,21 @@
+Hi Everyone 👋 I am Himanshu Khatarkar. I am a Software development Engineer. 
+I previously worked with Amazon. I am Currently persuing my Masters of Science 
+in Computer Science from IIIT, Bangalore. 
+
+I have 1.2 years of Experience out of which 7 months is full-time role and 7 
+months is Contract based. My tech stack includes : 
+    *Java 
+    *AWS
+    *Python
+    *Typescript
+    *MongoDB
+    *Docker
+    *Kubernetes
+
+My coursework include : 
+    * System Design
+    * DSA
+    * UI & UX Design
+    * Backend Development
+    * Machine Learning
+
